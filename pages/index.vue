@@ -272,10 +272,10 @@ export default {
 }
 
 .i-phone13141-avatar1 {
-  top: 83px;
-  left: 82px;
-  width: 225px;
-  height: 241px;
+  top: 69px;
+  left: 71px;
+  width: 258px;
+  height: 258px;
   position: absolute;
   border-radius: 99px;
 }
