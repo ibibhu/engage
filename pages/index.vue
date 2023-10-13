@@ -18,7 +18,7 @@
         <span class="i-phone13141-text06"><span>Date</span></span>
         <span class="i-phone13141-text08"><span>the</span></span>
         <span class="i-phone13141-text10"><span>Save</span></span>
-        <span class="i-phone13141-text04"><span>27 . October . 2023</span></span>
+        <span class="i-phone13141-text04"><span>27.October.2023</span></span>
         <span class="i-phone13141-text14"><span>Venue</span></span>
         <span class="i-phone13141-text15"><span>DM&nbsp;&nbsp;Resort, Bhubaneswar</span></span>
         <div class="i-phone13141-text16">
@@ -157,10 +157,10 @@ export default {
   width: 220px;
   height: auto;
   position: absolute;
-  font-size: 32px;
+  font-size: 28px;
   font-style: Regular;
   text-align: left;
-  font-family: Imperial Script;
+  font-family: IBM Plex Sans;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
@@ -173,10 +173,10 @@ export default {
   width: 282px;
   height: auto;
   position: absolute;
-  font-size: 32px;
+  font-size: 25px;
   font-style: Regular;
   text-align: center;
-  font-family: Imperial Script;
+  font-family: IBM Plex Sans;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
@@ -189,10 +189,10 @@ export default {
   width: 282px;
   height: auto;
   position: absolute;
-  font-size: 30px;
+  font-size: 25px;
   font-style: Regular;
   text-align: center;
-  font-family: Imperial Script;
+  font-family: IBM Plex Sans;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
@@ -309,10 +309,10 @@ export default {
   height: auto;
   margin: auto;
   position: absolute;
-  font-size: 40px;
+  font-size: 28px;
   font-style: Regular;
   text-align: left;
-  font-family: Imperial Script;
+  font-family: IBM Plex Sans;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
